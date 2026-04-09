@@ -58,12 +58,11 @@ One of the key algorithms used in the system is the menu rendering algorithm whi
 
 CRUD is another important algorithm which is used by the seller in the admin panel to perform the following tasks:
 
-  - Create new menu items
-  - Read and display menu items that already exist
-  - Update item specifications such as prices and availability
-  - Delete those menu items that are not needed anymore
-
-CRUD is very necessary for keeping a current menu.
+- Create new menu items
+- Read and display menu items that already exist
+- Update item specifications such as prices and availability
+- Delete those menu items that are not needed anymore
+- CRUD is very necessary for keeping a current menu.
 
 Another algorithm developed within this project is the availability toggle algorithm which helps switch the status of any selected menu item between “Available” and “Sold Out.” As a result, customers can be promptly informed whether a certain dish is available or not.
 
